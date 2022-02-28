@@ -1,1 +1,1 @@
-let  fullName = " Võ Thị Thu Thảo ";
+let fullName = "Vo Thi Thu Thao";
